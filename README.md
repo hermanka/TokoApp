@@ -9,3 +9,5 @@
 - Laman release telah tersedia untuk diunduh di https://github.com/[username]/[nama_repo]/releases
 ![3](https://github.com/hermanka/TokoApp/blob/master/3.png)
 
+Laman release repo ini : https://github.com/hermanka/TokoApp/releases
+
